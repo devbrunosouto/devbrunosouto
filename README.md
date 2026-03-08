@@ -1,16 +1,19 @@
-<img
-    alt="Gif coding"
-    title="Gif coding"
-    width="600px"
-    height="100px"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFrdTEwZ205cXE5bHYzdWw1cDB6NGZmYTdhMTNtYjJhemJnc2lpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif">
-
 # Back-end Developer.
 
 
-My name is Bruno Luis Souto, I am a Back-end developer evolving towards FullStack, I am 19 years old, I completed high school at <strong>SESI Escada</strong> with a technical course in <strong>Natural Science</strong> and I am currently pursuing a Bachelor's degree in <strong>Computer Science</strong> at <strong>Unifbv Wyden</strong>.
+ <img 
+    src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg"
+    width="11px" 
+    alt="Brasil Flag" 
+    title="Brasil Flag"
+    > | My name is Bruno Luis Souto, I am a Back-end developer evolving towards FullStack, I am 19 years old, I completed high school at <strong>SESI Escada</strong> with a technical course in <strong>Natural Science</strong> and I am currently pursuing a Bachelor's degree in <strong>Computer Science</strong> at <strong>Unifbv Wyden</strong>.
 
-Meu nome é Bruno Luis Souto, sou um desenvolvedor Back End em evolução para FullStack, tenho 19 anos de idade, concluí o ensino médio no <strong>SESI Escada</strong> com curso técnico em <strong>Ciência da Natureza</strong> e atualmente estou cursando Bacharel em <strong>Ciência da Computação</strong> na <strong>Unifbv Wyden</strong>.
+ <img 
+    src="https://www.svgrepo.com/show/365950/usa.svg" 
+    width="11px" 
+    alt="USA Flag" 
+    title="USA Flag"
+    > | Meu nome é Bruno Luis Souto, sou um desenvolvedor Back End em evolução para FullStack, tenho 19 anos de idade, concluí o ensino médio no <strong>SESI Escada</strong> com curso técnico em <strong>Ciência da Natureza</strong> e atualmente estou cursando Bacharel em <strong>Ciência da Computação</strong> na <strong>Unifbv Wyden</strong>.
 
 <p align="left">
     </a> 
