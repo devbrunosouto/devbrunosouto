@@ -35,7 +35,62 @@
 
 ---
 
-### 💻 Languages and Technologies.
+### 📶 <strong>Social Networks.</strong>
+
+<a href="https://www.instagram.com/obruunoosh/">
+    <img
+        align="left"
+        alt="Instagram"
+        title="Instagram"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn-icons-png.flaticon.com/128/174/174855.png"
+    />
+</a>
+<a href="https://www.linkedin.com/in/devbrunosouto">
+    <img
+        align="left"
+        alt="Linkedin"
+        title="Linkedin"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
+    />
+</a>
+<a href="https://x.com/brunosoutodev">
+    <img
+        align="left"
+        alt="X"
+        title="X"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png"
+    />
+</a>
+<a href="https://github.com/devbrunosouto">
+    <img
+        align="left"
+        alt="Github"
+        title="Github"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn-icons-png.flaticon.com/128/733/733609.png"
+    />
+</a>
+<a href="https://t.me/obruunoosh">
+    <img
+        align="left"
+        alt="Telegram"
+        title="Telegram"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png"
+    />
+</a>
+<br>
+<br>
+
+### 💻 <strong>Languages and Technologies.</strong>
 
 <img 
     align="left" 
@@ -69,10 +124,19 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img
+    align="left"
+    alt="C++"
+    title="C++"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    >
 <br/>
 <br/>
 
-### 📊 Statistics.
+### 📊 <strong>Statistics.</strong>
 
 <p>
   <img 
