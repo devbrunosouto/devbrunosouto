@@ -6,7 +6,7 @@
     width="11px" 
     alt="USA Flag" 
     title="USA Flag"
-    > | My name is Bruno Luis Souto, I am a Back-end developer evolving towards FullStack, I am 19 years old, I completed high school at <strong>SESI Escada</strong> with a technical course in <strong>Natural Science</strong> and I am currently pursuing a Bachelor's degree in <strong>Computer Science</strong> at <strong>Unifbv Wyden</strong>.
+    > | My name is Bruno Luis Souto, I'm a Back-end developer evolving towards FullStack, I'm 19 years old, I completed high school at <strong>SESI Escada</strong> with a technical course in <strong>Biology Science</strong> and I'm currently pursuing a Bachelor's degree in <strong>Computer Science</strong> at <strong>Unifbv Wyden</strong>.
 
  <img 
     src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" 
