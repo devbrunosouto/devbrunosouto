@@ -6,14 +6,14 @@
     width="11px" 
     alt="USA Flag" 
     title="USA Flag"
-    > | My name is Bruno Luis Souto, I'm a Back-end developer evolving towards FullStack, I'm 19 years old, I completed high school at <strong>SESI Escada</strong> with a technical course in <strong>Biology Science</strong> and I'm currently pursuing a Bachelor's degree in <strong>Computer Science</strong> at <strong>Unifbv Wyden</strong>.
+    > | My name is Bruno Luis Souto, I'm a Back-end developer evolving towards FullStack, I'm 19 years old, I completed high school at <strong>SESI Escada</strong> with a technical course in <strong>Biology Science</strong> and I'm currently pursuing a Bachelor's degree in <strong>Computer Science</strong> at <strong>Unifbv Wyden</strong>. I'm the <strong>CEO</strong> of the company <strong>BS Informática</strong>, focused in developing and web solutions, coding landing pages, link pages and projects like that.
 
  <img 
     src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" 
     width="11px" 
     alt="Brasil Flag" 
     title="Brasil Flag"
-    > | Meu nome é Bruno Luis Souto, sou um desenvolvedor Back End em evolução para FullStack, tenho 19 anos de idade, concluí o ensino médio no <strong>SESI Escada</strong> com curso técnico em <strong>Ciência da Natureza</strong> e atualmente estou cursando Bacharel em <strong>Ciência da Computação</strong> na <strong>Unifbv Wyden</strong>.
+    > | Meu nome é Bruno Luis Souto, sou um desenvolvedor Back End em evolução para FullStack, tenho 19 anos de idade, concluí o ensino médio no <strong>SESI Escada</strong> com curso técnico em <strong>Ciência da Natureza</strong> e atualmente estou cursando Bacharel em <strong>Ciência da Computação</strong> na <strong>Unifbv Wyden</strong>. Eu sou o <strong>CEO</strong> da empresa <strong>BS Informática</strong>, focada em desenvolvimento e soluções web como landing pages, páginas de links e outros projetos.
 
 <p align="left">
     </a> 
